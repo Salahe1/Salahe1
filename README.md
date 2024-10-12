@@ -1,4 +1,4 @@
-<img  src="https://img.freepik.com/free-vector/tech-repair-facebook-cover-template_23-2150046975.jpg?ga=GA1.1.613906915.1727107899&semt=ais_hybrid" width="1440" height="296">
+/*<img  src="https://img.freepik.com/free-vector/tech-repair-facebook-cover-template_23-2150046975.jpg?ga=GA1.1.613906915.1727107899&semt=ais_hybrid" width="1440" height="296">*/
 
 <h1 align="center">Hi 👋, I'm Salah-Eddine Chakkor</h1>
 <h3 align="center">A passionate full stack developer from Morroco</h3>
